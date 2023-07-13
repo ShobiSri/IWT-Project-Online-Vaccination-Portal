@@ -1,0 +1,128 @@
+/* -------------------------------------------User Page----------------------------------------------- */
+
+
+#userprofile{
+	position: relative;
+	left: 2%;
+	top: 200px;
+}
+
+#userprofile button{
+	position: relative;
+	left: 7.5%;
+}
+
+#username{
+	position: absolute;
+	font-family: cursive;
+	font-size: 35px;
+	top: 260px;
+	left: 22%;
+	}
+
+#username box{
+	width: 100%;
+	height: 50px;
+}
+
+#userage{
+	position: absolute;
+	font-family: cursive;
+	font-size: 20px;
+	top: 320px;
+	left: 24.5%;
+}
+
+
+#userage box1{
+	width: 70%;
+	height: 30px;
+}
+#userage box2{
+	position: relative;
+	width: 70%;
+	height: 30px;
+}
+
+#useralign{
+	position: absolute;
+	left: 4%;
+	top: 73%;
+	font-family: cursive;
+	font-size: 20px;
+}
+
+#useralign a{
+	font-family: cursive;
+	font-size: 15px;
+	position: relative;
+	left: 75%;
+}
+#useralign a:hover{
+	font-family: cursive;
+	font-size: 15.5px;
+	position: relative;
+	left: 75%;
+}
+
+#logout{
+	position: absolute;
+	left: 50%;
+	background-color: #245464;
+	border-color: #245464;
+	color: white;
+	font-family: monospace;
+	font-size: 16px;
+}
+
+#appdate{
+	position: absolute;
+	left: 66%;
+	top: 410px;
+	font-family: cursive;
+	font-size: 20px;
+}
+
+#appdate li{
+	right: 28%;
+	position: relative;
+	font-family: cursive;
+	font-size: 15px;
+	height: 22px;
+	width: auto;
+	background-color: #245464;
+	color: blanchedalmond;
+}
+
+#cancelapp{
+	position: absolute;
+	left: 9%;
+	background-color: orangered;
+	height: 6%;
+	width: 40%;
+	font-size: 15px;
+	font-family: monospace;
+	border-radius: 25px;
+	border: 1px solid;
+	padding: 2px;
+}
+
+#cancelapp a{
+	font-size: 15px;
+	color: black;
+}
+
+#cancelapp a:hover{
+	color: ghostwhite;
+	font-size: 15.5px;
+}
+
+#detailsedit{
+	position: relative;
+	font-family: cursive;
+	font-size: 15px;
+	height: 22px;
+	width: 200%;
+	background-color:whitesmoke;
+	color: black;
+}
